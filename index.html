@@ -14,6 +14,7 @@ description: "首頁啦!!"
     
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<!-- 這裡會顯示最新的四篇文章 -->
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
@@ -134,6 +135,7 @@ description: "首頁啦!!"
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+<!-- 載入標籤包含sticky -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
@@ -168,7 +170,7 @@ description: "首頁啦!!"
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>全部文章</span></h4>
         
 
         {% for post in paginator.posts %}
