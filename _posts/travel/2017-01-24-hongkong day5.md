@@ -1,10 +1,12 @@
 ---
 layout: post
 tagline: "20170124"
-categories : [hongkong,2017 travel]
+categories : [Travel]
 title: "香港之旅Day5"
-imagefeature: "https://c1.staticflickr.com/1/576/32525628611_4c2fa64b54_h.jpg"
-
+# imagefeature: "https://c1.staticflickr.com/1/576/32525628611_4c2fa64b54_h.jpg"
+image: "../assets/images/2017-01-24-hongkong day5/32525628611_4c2fa64b54_h.jpg"
+author: sherlock
+tags: [featured]
 ---
 
 ## 香港遊記第五天

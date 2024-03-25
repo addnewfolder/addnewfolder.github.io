@@ -1,10 +1,10 @@
 ---
 layout: post
 tagline: "20170120"
-categories : [hongkong,2017 travel]
+categories : [Travel]
 title: "香港之旅Day1"
-imagefeature: "32199604660_b480698bbd_b.jpg"
-
+image: "../assets/images/2017-01-20-hongkong day1 guide/32199604660_b480698bbd_b.jpg"
+tags: [featured]
 ---
 ## 香港遊記第一天
 

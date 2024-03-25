@@ -4,7 +4,10 @@ tagline: "九州規劃-交通篇"
 categories : [Travel]
 title: "日本九州自助行交通篇"
 author: sherlock
-image: assets/images/17.jpg
+# image: assets/images/31843653067_ca84df3bed_o.png
+
+image: "../assets/images/2019-01-17-plan_fukon_traffic/31843653067_ca84df3bed_o.png"
+
 ---
 食尚玩家介紹。
 
