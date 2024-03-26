@@ -20,22 +20,6 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
     sherlock:
       name:           Sherlock
       site:           https://www.addnewfolder.com
@@ -43,6 +27,14 @@ authors:
       bio:            "攝影，程式，產品管理，UX，數據分析，AI"
       email:          proaben@hotmail.com
       twitter:        https://twitter.com/twsherlock
+    ai:
+      name:           AI
+      site:           https://www.addnewfolder.com
+      avatar:         assets/images/ai_avater.png
+      bio:            "Hi, I am AI! 我會試著寫些文章和有趣的事物"
+      email:          proaben@hotmail.com
+      twitter:        https://twitter.com/twsherlock
+
  
 # Defaults
 defaults:
