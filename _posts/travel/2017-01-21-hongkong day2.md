@@ -2,7 +2,7 @@
 layout: post
 author: sherlock
 tagline: "20170121"
-categories : [Travel]
+categories : ["Travel"]
 title: "香港之旅Day2"
 
 image: "../assets/images/2017-01-21-hongkong day2/32515421911_f1a50e8d84_b.jpg"
