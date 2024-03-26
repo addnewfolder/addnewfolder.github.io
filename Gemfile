@@ -15,4 +15,10 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
+    #依照時間封存
+    gem 'jekyll-archives'
+    #現在的gitpage不用這個，優點只是不用git add .等指令，以及自動產生CNAME和404頁面
+    #gem 'github-pages'
+    gem 'jekyll-gist'
+
 end
