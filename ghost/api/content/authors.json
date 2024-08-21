@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "id": "1",
+            "slug": "yuji",
+            "name": "黃昱嘉",
+            "profile_image": "https://yujih.com/content/images/2023/01/----1-landscape.jpg",
+            "url": "https://yujih.com/author/yuji/"
+        },
+        {
+            "id": "636cb6d336b46cd31499e1d8",
+            "slug": "yuji-medium",
+            "name": "Yuji",
+            "profile_image": "https://yujih.com/content/images/fit/c/176/176/1-tep0rotnam507divczwpoa-1.jpg",
+            "url": "https://yujih.com/author/yuji-medium/"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "limit": 10000,
+            "pages": 1,
+            "total": 2,
+            "next": null,
+            "prev": null
+        }
+    }
+}

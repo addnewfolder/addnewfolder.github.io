@@ -1,0 +1,491 @@
+{
+    "posts": [
+        {
+            "id": "66b8c2e19b6008049c35ccf5",
+            "slug": "discipline-how-to-prevent-ego-depletion",
+            "title": "如何避免自我耗損：自律的方法就是「不要自律」",
+            "updated_at": "2024-08-11T22:54:13.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/discipline-how-to-prevent-ego-depletion/",
+            "excerpt": "我注意到，自己有時候會突然什麼事都不想做，只想躺在沙發上。正因如此，我從來都不認為自己是個自律的人。但過去幾年，我依然完成了不少事，其中有些需要多年的持之以恆。後來我歸結出：恰巧是因為「不自律」，我才能完成這些事。"
+        },
+        {
+            "id": "66a92a409b6008049c35cbed",
+            "slug": "jensen-mark-meta-siggraph-2024",
+            "title": "Meta 為什麼選擇開源 AI？雷朋眼鏡與下一代的 Llama 4｜SIGGRAPH 2024 黃仁勳 x 馬克祖克柏",
+            "updated_at": "2024-07-31T03:47:10.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/jensen-mark-meta-siggraph-2024/",
+            "excerpt": "在 SIGGRAPH 2024 上，黃仁勳邀請 Zuckerberg 對談 AI 趨勢。整體有點像是迷你 Meta 發表會，並有許多好笑的橋段。"
+        },
+        {
+            "id": "6669aaae9b6008049c35c896",
+            "slug": "apple-intelligence",
+            "title": "【WWDC 2024】Apple Intelligence：只有蘋果做得到的事，與 AI Device 的序幕",
+            "updated_at": "2024-07-31T02:45:07.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/apple-intelligence/",
+            "excerpt": "2024 年的 WWDC，蘋果發表了 Apple Intelligence，讓人驚艷。這是因為有別於其他巨頭，蘋果充分展現了「只有蘋果做得到的事」。"
+        },
+        {
+            "id": "669d0bf09b6008049c35cb75",
+            "slug": "mvp-and-intentionally-doing-nothing",
+            "title": "[短文] 關於 MVP，以及為什麼要「故意不做某些功能」",
+            "updated_at": "2024-07-21T22:15:04.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/mvp-and-intentionally-doing-nothing/",
+            "excerpt": "自從發布「減少社群 app 使用」功能，活躍用戶（DAU）立刻躍升，中間也一度上了 App Store 排行榜 35 名。體感上最顯著的改變是：獲得愈來愈多「有效資訊」。"
+        },
+        {
+            "id": "669676d69b6008049c35ca3c",
+            "slug": "global-socia-media-report-2024",
+            "title": "台灣人平均一天用社群多久？全球螢幕使用時間最少的是哪一個國家？使用者更愛抖音（TikTok）還是 Instagram？",
+            "updated_at": "2024-07-18T12:00:10.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/global-socia-media-report-2024/",
+            "excerpt": "因為開發 Clarymind，我找了全球網路與社群使用報告，從資料中發現了許多有趣的事。比如，你認為目前大眾最喜愛的社群媒體是哪一個呢？"
+        },
+        {
+            "id": "66961e129b6008049c35c964",
+            "slug": "clarymind-screen-time-feature-launch",
+            "title": "Clarymind 新功能「螢幕使用時間管理」，以及減少無意識滑社群帶來的好處",
+            "updated_at": "2024-07-16T16:10:30.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/clarymind-screen-time-feature-launch/",
+            "excerpt": "為什麼我們決定開發「螢幕使用時間管理」功能，以及我親自實驗兩個月後，發覺帶來的好處"
+        },
+        {
+            "id": "66536db19b6008049c35c823",
+            "slug": "consumer-ai-openai-apple",
+            "title": "OpenAI 連串信任崩毀事件，以及為什麼蘋果最有機會，搶佔下一代 AI 消費性市場？",
+            "updated_at": "2024-05-27T02:48:48.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/consumer-ai-openai-apple/",
+            "excerpt": "「資料」與「信任」，互為矛盾的 AI 產品兩大要件。OpenAI 搞砸了，但蘋果似乎兩者兼備。"
+        },
+        {
+            "id": "655ee57e9b6008049c35c7af",
+            "slug": "trust-and-find-trust-for-ai",
+            "title": "信任是社會運作的本質：AI 的信任問題、OpenAI 董事會衝突，與如何取得信任",
+            "updated_at": "2023-11-24T22:02:31.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/trust-and-find-trust-for-ai/",
+            "excerpt": "信任是社會運作的本質，而 AI 也有信任問題。哪些領域需要信任？如何替 AI 找到信任？本篇將闡釋信任與商業的關係，並提出我認為可能的思考方向。"
+        },
+        {
+            "id": "64d9f6e49b6008049c35c44b",
+            "slug": "how-duolingo-succeed",
+            "title": "Duolingo 如何成長 450%？創辦人 Luis von Ahn 開掛的經歷與專注的使命",
+            "updated_at": "2023-10-03T10:04:46.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/how-duolingo-succeed/",
+            "excerpt": "Duolingo 是遊戲化語言學習平台，提供人們免費語言教育。以下將會介紹 Luis 的開掛創業經歷、Duolingo 的成長方式、護城河與下一步。"
+        },
+        {
+            "id": "65145a7d9b6008049c35c678",
+            "slug": "podcast-youtube-spotify",
+            "title": "Google Podcast 併入 YouTube；Spotify 推出 AI 翻譯複製聲音——Podcast 市場將如何變化？",
+            "updated_at": "2023-09-28T03:46:28.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/podcast-youtube-spotify/",
+            "excerpt": "Google Podcast 併入 YouTube，將對 Spotify 造成什麼衝擊？本篇將分析 YouTube 的優勢，以及 Spotify 策略的困境"
+        },
+        {
+            "id": "64fc9f839b6008049c35c5af",
+            "slug": "replit-journey",
+            "title": "Replit：AI 浪潮的受益者？從被 Y Combinator 拒絕三次，成長為 11.6 億美元獨角獸",
+            "updated_at": "2023-09-11T23:52:22.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/replit-journey/",
+            "excerpt": "Replit 在 2023 年 4 月 B 輪募資 $9740 萬美元，估值 $11.6 億美元，正式成為獨角獸。Replit 是如何從程式教育，轉型成線上編輯器與部署環境，並因這波 AI 浪潮而受益？"
+        },
+        {
+            "id": "64ec6f4b9b6008049c35c51e",
+            "slug": "stripe-bank-as-a-service",
+            "title": "Stripe 的 Bank as a Service 生態系大局：從 Adyen 大跌 40%，談支付市場與 Stripe 的未來",
+            "updated_at": "2023-08-28T22:26:24.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/stripe-bank-as-a-service/",
+            "excerpt": "Adyen 在 08/18 財報公布後，股價大跌 40%，市值蒸發 $200 億美元。這是否預示了 Stripe 不樂觀的未來？Stripe 的 BaaS 終局想像又是什麼？"
+        },
+        {
+            "id": "63beddda36b46cd31499e73f",
+            "slug": "how-i-joined-and-left-a-startup",
+            "title": "我如何加入、打造最後離開新創？10 年新創心路歷程（2022-11 台大資工系演講紀錄）",
+            "updated_at": "2023-08-23T18:21:28.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/how-i-joined-and-left-a-startup/",
+            "excerpt": "應台大資工系，與我的朋友、前 Google 工程師寺尾哲也邀請，我在 2022 年 11 月跟寺尾哲也有一場職涯對談。本篇是該次演講的紀錄，主要談過去 10 年在台灣新創的經驗，分享加入新創應該注意些什麼，以及離開新創的理由。"
+        },
+        {
+            "id": "64ce81e69b6008049c35c35b",
+            "slug": "is-uber-profit-sustainable",
+            "title": "Uber 轉虧為盈，但是獲利有辦法持續嗎？",
+            "updated_at": "2023-08-06T03:12:43.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/is-uber-profit-sustainable/",
+            "excerpt": "Uber，一間被眾人遺棄、認為商業模式早就沒救的公司，近期宣布 2023 Q2 轉虧為盈。此前大多數人都認為，Uber 是無法持續的商業模式。首次獲利，是否表示 Uber 終於證明了「共享經濟」是可行的？"
+        },
+        {
+            "id": "64ce90b79b6008049c35c401",
+            "slug": "uber-marketplace-business-model",
+            "title": "Uber：沒能健康長大的 Marketplace；「跳步驟」補貼成長策略，如何使 Uber 錯失壟斷",
+            "updated_at": "2023-08-06T03:10:05.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/uber-marketplace-business-model/",
+            "excerpt": "Uber 的商業模式是 Marketplace。然而，過去十年，Uber 似乎一直難以建立穩定的網路效應，我認為，正是因為補貼「跳步驟」使之錯失良機。"
+        },
+        {
+            "id": "64bb70f79b6008049c35c2c0",
+            "slug": "is-pc-culture-killing-disney",
+            "title": "政治正確害慘了迪士尼嗎？內容品質撐不起的策略",
+            "updated_at": "2023-07-26T22:32:12.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/is-pc-culture-killing-disney/",
+            "excerpt": "很常聽到的批評是「迪士尼過分政治正確了」。政治正確真的毀了迪士尼嗎？如果認知到，迪士尼的主力獲利來源是迪士尼樂園，那麼政治正確，其實才是正確的策略。"
+        },
+        {
+            "id": "64bb50cb9b6008049c35c202",
+            "slug": "what-happened-to-disney",
+            "title": "迪士尼魔法失效？樂園人流不如預期，串流卡住成長飛輪",
+            "updated_at": "2023-07-23T21:25:37.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/what-happened-to-disney/",
+            "excerpt": "2023 年，恰好是迪士尼一百歲生日。然而，2023 年對迪士尼來說不是好過的一年。迪士尼曾經靠著百年歷史 IP，累積非常強大的飛輪；如今飛輪故障、停擺了，而原因可能出在「串流」。"
+        },
+        {
+            "id": "64b186739b6008049c35c181",
+            "slug": "threads-vs-twitter",
+            "title": "Threads 退燒＆Twitter 撒錢：可能雙輸的一場戰爭",
+            "updated_at": "2023-07-15T14:33:55.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/threads-vs-twitter/",
+            "excerpt": "上線一週、使用者破億的 Threads 開始退燒。另一邊，Twitter 則是端出了「創作者廣告分潤」計畫。究竟 Threads 現在把自己定位在社群光譜的哪個位置？而這個定位，又會如何影響它與 Twitter 的競爭關係？"
+        },
+        {
+            "id": "64a53ba19b6008049c35bf97",
+            "slug": "figma-config-2023",
+            "title": "Airbnb 如何打造「設計為中心」的公司經營模式｜為什麼 Figma 導入 AI 腳步緩慢｜Figma Config 2023",
+            "updated_at": "2023-07-09T22:32:43.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/figma-config-2023/",
+            "excerpt": "2023 年的 Figma Config 不令人意外地，出現許多 AI 相關的討論：AI 如何影響設計工作，進而影響設計師的角色定位？Figma 希望扮演什麼角色？為什麼 Figma 的 AI 腳步顯得緩慢？"
+        },
+        {
+            "id": "649b89c99b6008049c35bef2",
+            "slug": "vercel-story-and-next-step",
+            "title": "Vercel：開放原始碼專案，如何成長為估值 25 億美元的新創？",
+            "updated_at": "2023-06-30T10:29:21.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/vercel-story-and-next-step/",
+            "excerpt": "Vercel 如何從開源專案，成長為估值 25 億美元的新創公司？作為平台即服務（PaaS，Platform as a Service），Vercel 的下一步又是什麼？"
+        },
+        {
+            "id": "64803bbf2aedbe047f6d03bd",
+            "slug": "apple-vision-pro",
+            "title": "Apple Vision Pro 與 WWDC：誠實的特權、市場定位與社會影響",
+            "updated_at": "2023-06-08T01:38:47.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/apple-vision-pro/",
+            "excerpt": "熬夜看完 WWDC 之後，除了被 Apple Vision Pro 震撼，一個很奇怪但驚艷我的感想是：Apple 很「誠實」。"
+        },
+        {
+            "id": "646ae8a636b46cd31499efeb",
+            "slug": "against-the-attention-economy-paid-subscription-model",
+            "title": "「創作者經濟」的挑戰、變形與未來：Medium、Substack、Twitter",
+            "updated_at": "2023-06-03T01:34:23.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/against-the-attention-economy-paid-subscription-model/",
+            "excerpt": "當今有三個玩家，似乎正嘗試以不同方式使文字內容有價，並取得了一點成功。他們便是 Medium、Substack 和 Elon Musk 接手後的 Twitter。然而，雖然常見歸類為「創作者經濟」，它們實際上各自是不同的生意。"
+        },
+        {
+            "id": "646ace2036b46cd31499ef57",
+            "slug": "google-io-ai-and-the-future-content-business",
+            "title": "Google I/O 宣布搜尋導入 AI 生成內容；AI 將如何影響內容產業、注意力經濟與未來的社群網路？",
+            "updated_at": "2023-05-22T12:31:42.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/google-io-ai-and-the-future-content-business/",
+            "excerpt": "Google 將 AI 生成內容（或說生成式 AI）導入搜尋，將如何影響媒體內容產業與未來社群網路的發展？而我認為，這很可能讓網路趨於封閉。"
+        },
+        {
+            "id": "63c8e8ea36b46cd31499ebb2",
+            "slug": "ai-ad-business-model",
+            "title": "AI＋廣告置入？從生成式 AI 訴訟，兼談未來的 AI 商業模式與戰場",
+            "updated_at": "2023-05-11T20:16:49.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/ai-ad-business-model/",
+            "excerpt": "從圖庫素材網站各自如何應對生成式 AI 熱潮（訴訟、允許販售、加入開發），討論為什麼我認為未來 AI 的商業模式更可能是廣告，以及戰場會在哪裡。"
+        },
+        {
+            "id": "64589b1336b46cd31499eef2",
+            "slug": "difference-between-amazon-and-momo-booktw",
+            "title": "【短文】亞馬遜與 Momo、博客來降價策略之差異",
+            "updated_at": "2023-05-08T23:23:50.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/difference-between-amazon-and-momo-booktw/",
+            "excerpt": "淺談 Amazon 與 Momo、博客來降價策略之差異"
+        },
+        {
+            "id": "6458a2e736b46cd31499ef23",
+            "slug": "ai-human-learning-change",
+            "title": "【短文】只需理解應用層、什麼都暴力解——AI 可以帶來的兩大學習變革",
+            "updated_at": "2023-05-08T23:21:01.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/ai-human-learning-change/",
+            "excerpt": "記得小時候聽過一個說法：人類的科學終究會遇到瓶頸。隨著需要學習的知識增多，人在有生之年要掌握乃至突破知識，將會愈來愈困難。然而 AI / GPT-4 的出現，讓我察覺兩種可能性。"
+        },
+        {
+            "id": "6458982736b46cd31499eeb4",
+            "slug": "kol-collaboration-quick-forcast",
+            "title": "如何快速預判 KOL 團購成效？分潤又有稿費該合作嗎？",
+            "updated_at": "2023-05-08T14:46:04.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/kol-collaboration-quick-forcast/",
+            "excerpt": "根據過去幾年做電商的經驗，談談品牌端怎麼評估與網紅的分潤，以及為什麼「分潤＋稿費」很罕見。"
+        },
+        {
+            "id": "63f4628d36b46cd31499ed4e",
+            "slug": "why-airbnb-did-not-disrupt-hotel-industry",
+            "title": "為什麼 Airbnb 沒有顛覆飯店業？",
+            "updated_at": "2023-02-22T20:48:41.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/why-airbnb-did-not-disrupt-hotel-industry/",
+            "excerpt": "直覺而言，會認為 Airbnb 對於飯店業是破壞式創新，顛覆了整個飯店業。然而如果攤開財報，卻會發現完全不是這麼一回事。"
+        },
+        {
+            "id": "63bd3c4836b46cd31499e559",
+            "slug": "the-browser-startups",
+            "title": "為什麼瀏覽器一定要免費？異軍突起的瀏覽器新創 Arc",
+            "updated_at": "2023-02-15T13:31:59.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/the-browser-startups/",
+            "excerpt": "二十多年來，瀏覽器一直是免費的。然而現在有一群新創，開始製作「付費瀏覽器」。他們看到了什麼切入點？"
+        },
+        {
+            "id": "63eaf84836b46cd31499eccc",
+            "slug": "can-gpt-help-create-original-literature",
+            "title": "ChatGPT 可以輔助文學創作嗎？GPT 模型辦不到的三大原因",
+            "updated_at": "2023-02-14T12:40:22.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/can-gpt-help-create-original-literature/",
+            "excerpt": "Ted Chiang（姜峯楠）談到了「大型語言模型（LLM，Large Language Model）是否可能成為原創作品的起點？」我對於這個問題很感興趣，而我的答案是在短期內不大可能。"
+        },
+        {
+            "id": "63e0f9e636b46cd31499ec2c",
+            "slug": "why-chatgpt-in-usa-not-china",
+            "title": "「為什麼美國有 ChatGPT 而中國沒有？」AI 競賽成為新冷戰的戰場",
+            "updated_at": "2023-02-14T10:55:15.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/why-chatgpt-in-usa-not-china/",
+            "excerpt": "為什麼美國有 ChatGPT 而中國沒有？State of AI 去年底發布的 2022 AI 產業報告，給出了有趣的 insight。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1f3",
+            "slug": "the-kirishima-thing",
+            "title": "摧毀夢想的正確姿勢－《聽說桐島退社了》（2013）",
+            "updated_at": "2023-01-17T17:37:19.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/the-kirishima-thing/",
+            "excerpt": "夢想，在如今似乎已經是一個天真、虛幻、甚至有一點點骯髒的詞彙了。夢想是什麼？"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1f2",
+            "slug": "the-lobster",
+            "title": "The Lobster（單身動物園, 2015）",
+            "updated_at": "2023-01-17T17:37:02.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/the-lobster/",
+            "excerpt": "這部片用了很誇張的手法，諷刺現代的伴侶觀念。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1f9",
+            "slug": "whiplash",
+            "title": "Whiplash（進擊的鼓手, 2014）",
+            "updated_at": "2023-01-17T17:36:42.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/whiplash/",
+            "excerpt": "在結尾，他抱持著同樣的信念，逼出了主角的潛能。本來是要害他的，最終合作，打出生涯代表作。這是和解嗎？"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1ef",
+            "slug": "dr-strangelove",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb（奇愛博士, 1964）",
+            "updated_at": "2023-01-17T17:35:08.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/dr-strangelove/",
+            "excerpt": "每一個可以控制的細節，都被導演填入了最荒謬的可能。這包含了情節到角色到對白到每一個動作。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1ee",
+            "slug": "no-country-for-old-men",
+            "title": "No Country for Old Men（險路勿近, 2007）",
+            "updated_at": "2023-01-17T17:34:51.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/no-country-for-old-men/",
+            "excerpt": "故事主要由三個角色構成：牛仔、殺手、警長，並因此分為交錯的三線。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e8",
+            "slug": "life-of-brian",
+            "title": "Monty Python’s Life of Brian（萬世魔星, 1979）",
+            "updated_at": "2023-01-17T17:34:02.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/life-of-brian/",
+            "excerpt": "一部諷刺基督宗教的喜劇，是 Monty Python 最優秀的作品之一。"
+        },
+        {
+            "id": "63c6408736b46cd31499e8c5",
+            "slug": "leak",
+            "title": "Leak（22 屆台北文學獎散文首獎）",
+            "updated_at": "2023-01-17T14:38:43.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/leak/",
+            "excerpt": "本篇為 22 屆台北文學獎散文首獎，當時獲獎所用的筆名為ㄩㄐ。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1ec",
+            "slug": "insane-taiwan-payments",
+            "title": "在台灣想做國際金流收款有多困難？",
+            "updated_at": "2023-01-16T17:49:51.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/insane-taiwan-payments/",
+            "excerpt": "還是可愛小朋友的時候，我總是以為，創業只要有網路就可以賣到全世界啦。長大一點我略懂略懂，啊，有些文化啦資源啦市場啦不是那麼簡單的事。"
+        },
+        {
+            "id": "63c0da5736b46cd31499e794",
+            "slug": "pflee-back-and-forth",
+            "title": "三連音節奏創新－讀李蘋芬的〈往返〉",
+            "updated_at": "2023-01-13T13:25:15.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/pflee-back-and-forth/",
+            "excerpt": "除了許多老台北、舊時代的符碼，類似於三連音效果的節奏感，是這首詩的獨特之處。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e5",
+            "slug": "bfwang-funeral",
+            "title": "詩是死亡的手藝－讀王柄富的〈葬禮〉｜小巷潛行計畫",
+            "updated_at": "2023-01-13T12:07:38.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/bfwang-funeral/",
+            "excerpt": "這是一首討論詩藝的詩。看似抒情的句子裡，卻充滿了死亡意象。敘事對象「你」是詩，是手藝；在情節中，則是一具屍體。詩人在每日的生活裡，一次又一次殺死詩"
+        },
+        {
+            "id": "63be65d336b46cd31499e67a",
+            "slug": "will-generative-ai-replace-human",
+            "title": "生成式 AI 會取代人類嗎？「幫你把事情都做完的 AI」vs「總會找到事做的人類」",
+            "updated_at": "2023-01-12T10:47:25.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/will-generative-ai-replace-human/",
+            "excerpt": "近年來生成式 AI 蓬勃發展，然而為什麼即使我認為，AI 將會取代許多心智勞動，人類卻也不會因此找不到事情做？"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1f0",
+            "slug": "x-men-apocalypse",
+            "title": "創業必讀！為什麼你的 HR 與早期員工那麼重要－《X-Men: Apocalypse》（X 戰警：天啟, 2016）",
+            "updated_at": "2022-12-12T18:23:29.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/x-men-apocalypse/",
+            "excerpt": "（下標「創業必讀！為什麼你的 HR 與早期員工那麼重要」完全變成了農場文了啊。）"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1ed",
+            "slug": "thank-you-for-smoking",
+            "title": "Thank You for Smoking（銘謝吸菸, 2005）",
+            "updated_at": "2022-11-29T17:47:13.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/thank-you-for-smoking/",
+            "excerpt": "其實是一堂 95 分鐘的超快速娛樂版自由主義簡介"
+        },
+        {
+            "id": "636cb6d436b46cd31499e201",
+            "slug": "superbad",
+            "title": "一場與警察的真心話大冒險－Superbad（男孩我最壞, 2007）",
+            "updated_at": "2022-11-29T15:56:39.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/superbad/",
+            "excerpt": "乍看是「我不想看這麼多不好笑的低級笑話啦」但那其實都是悲哀。校園邊緣人的悲哀。如何刷存在感？如何在邊緣裡面勉強肩靠著肩？"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e7",
+            "slug": "why-should-we-stop-feeling-poems",
+            "title": "為什麼我們該停止靠感覺讀詩並開始動腦？《小巷潛行計畫》之潛行守則",
+            "updated_at": "2022-11-29T14:57:55.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/why-should-we-stop-feeling-poems/",
+            "excerpt": "你可能不在乎詩。你可能只讀過國文課本的詩。你可能不小心看過晚安詩，甚至還買了一本誠品擺在門口的詩集。你可能曾經想問：詩到底是三小？"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e2",
+            "slug": "is-this-love-tang-juan",
+            "title": "不認真地抒情 － 讀唐捐的〈難道這就是愛〉｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:57:33.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/is-this-love-tang-juan/",
+            "excerpt": "最近，唐捐的一首詩被選錄到捷運上，引起了一點騷動。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e4",
+            "slug": "the-pianist-palixia",
+            "title": "舉重若輕的莊嚴－讀帕麗夏的〈鋼琴師〉｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:57:17.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/the-pianist-palixia/",
+            "excerpt": "帕麗夏的詩「清奇」。或許可以如此遠觀這本詩集：《一小片安靜的壞天氣》以意象取勝，偶爾出現的警句，不小心就會刺中誰。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e1",
+            "slug": "penguin-observation-hung-wan-da",
+            "title": "欲言又止的悲傷 － 讀洪萬達的〈阿鵝觀察日記〉｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:54:59.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/penguin-observation-hung-wan-da/",
+            "excerpt": "有些詩的魅力在說，有些在不說。這首詩的魅力，則在於「想說，卻不能說」。 敘事者阿鵝是一隻愛喝雪碧的企鵝，與阿達同居中。這是詩人洪萬達在文集《梅比斯》裡的設定。 — 也就是說，是護家盟最害怕的「人獸戀」呢。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1e0",
+            "slug": "im-afraid-of-houses-tsao-yu-po",
+            "title": "變即不變－讀曹馭博的《我害怕屋瓦》輯貳｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:54:24.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/im-afraid-of-houses-tsao-yu-po/",
+            "excerpt": "曹馭博的詩集《我害怕屋瓦》並非容易讀的作品。複雜的意象、隱密的主題，以及在台灣現代詩裡相對少見、陌生的句法，都容易令人在其中迷路。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1de",
+            "slug": "beach-road-huang-gang",
+            "title": "篳路藍縷或殖民侵略？－讀黃岡的〈海灘路〉｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:53:08.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/beach-road-huang-gang/",
+            "excerpt": "這是一個乍聽難以接受的事實：小時候在歷史課本裡，讀到關於漢人來台開墾、篳路藍縷的故事，換一個「故事視角」，對原住民來說，恐怕都是「侵略」⋯⋯"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1dd",
+            "slug": "1997-yang-chih-chieh",
+            "title": "從〈1997〉雜談楊智傑詩集《小寧》－曖昧陌生的時空｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:53:03.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/1997-yang-chih-chieh/",
+            "excerpt": "1989 年 6 月 4 日，六四天安門事件。 1997 年 7 月 1 日，0 時 0 分，香港特別行政區成立。 2019 年，香港警察實彈射殺平民。於民宅與地鐵施放催淚彈。濫捕無辜路人，私刑、性暴力與棄屍。五大訴求完全忽視。 這一切不義都正在進行中。"
+        },
+        {
+            "id": "636cb6d436b46cd31499e1df",
+            "slug": "sweet-home-iifays",
+            "title": "永遠無法洗乾淨的自己－讀蕭詒徽的〈甜蜜的家庭〉｜小巷潛行計畫",
+            "updated_at": "2022-11-29T14:52:29.000+08:00",
+            "visibility": "public",
+            "url": "https://yujih.com/blog/sweet-home-iifays/",
+            "excerpt": "長大是什麼呢？長大是假裝。長大是懂。長大是開始怕髒。 小孩子不怕髒。小孩子根本不懂髒 — — 似乎我們懂得愈多就愈髒。「別跟她說，不然她會更髒的。」髒究竟是什麼呢？"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "limit": 10000,
+            "pages": 1,
+            "total": 53,
+            "next": null,
+            "prev": null
+        }
+    }
+}
