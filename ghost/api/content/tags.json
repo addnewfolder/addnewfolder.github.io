@@ -1,85 +1,97 @@
 {
     "tags": [
         {
-            "id": "7d567d4dc3b4549041bdc06c",
+            "id": "72997f0dc33cf7f6d85ce55a",
             "slug": "product",
             "name": "產品",
             "url": "https://www.addnewfolder.com/tag/product"
         },
         {
-            "id": "1e1c628dcdaf812fabcd7ff8",
+            "id": "9f9bef82cbaf1807736c26af",
             "slug": "ai",
             "name": "AI",
             "url": "https://www.addnewfolder.com/tag/ai"
         },
         {
-            "id": "e0f21e3a03c1e8d087e83d73",
+            "id": "157842bd607e40130e5fed9d",
             "slug": "business",
             "name": "商業",
             "url": "https://www.addnewfolder.com/tag/business"
         },
         {
-            "id": "bc5a0334ca9819740b4343bf",
+            "id": "419594915204e8c7076227c1",
             "slug": "tech",
             "name": "科技",
             "url": "https://www.addnewfolder.com/tag/tech"
         },
         {
-            "id": "61b80b5546aa44b0fb5b2d4c",
+            "id": "04903d9f5c46eea05169950d",
             "slug": "design",
             "name": "設計",
             "url": "https://www.addnewfolder.com/tag/design"
         },
         {
-            "id": "26d1ab9aa0fd939922569711",
+            "id": "e232d700cb8f4440bd10c936",
             "slug": "unicorn",
             "name": "新創",
             "url": "https://www.addnewfolder.com/tag/unicorn"
         },
         {
-            "id": "de85f059105be88d7657d88a",
+            "id": "f7aa373d98e75cfcb6f7f120",
             "slug": "3c",
             "name": "3C",
             "url": "https://www.addnewfolder.com/tag/3c"
         },
         {
-            "id": "d5ef8e65e455a07a4ff0467f",
+            "id": "ab8c1fb7730fb05103a06954",
             "slug": "management",
             "name": "管理",
             "url": "https://www.addnewfolder.com/tag/management"
         },
         {
-            "id": "e74e1e89df01aeedb0d837c9",
+            "id": "7da4db74a2b4711ea0555fac",
             "slug": "travel",
             "name": "旅遊",
             "url": "https://www.addnewfolder.com/tag/travel"
         },
         {
-            "id": "8251610830e0f1d5e6d7dd21",
+            "id": "8749b9089a565be7b9c77a35",
             "slug": "hongkong",
             "name": "香港",
             "url": "https://www.addnewfolder.com/tag/hongkong"
         },
         {
-            "id": "764f6ea1728d94c1e585e187",
+            "id": "409aba13893ef35ba4d02be1",
+            "slug": "hongkong",
+            "name": "HongKong",
+            "url": "https://www.addnewfolder.com/tag/hongkong"
+        },
+        {
+            "id": "e5a847ae8c2106ba75841f20",
             "slug": "okinawa",
             "name": "沖繩",
             "url": "https://www.addnewfolder.com/tag/okinawa"
         },
         {
-            "id": "586547ac5604a05c7a42a679",
+            "id": "f8f237e4aa5b54eb78f9031b",
+            "slug": "okinawa",
+            "name": "Okinawa",
+            "url": "https://www.addnewfolder.com/tag/okinawa"
+        },
+        {
+            "id": "a6ccdb7b16b6af235bebd7e6",
             "slug": "social",
             "name": "社群經營",
             "url": "https://www.addnewfolder.com/tag/social"
         },
         {
-            "id": "3ca9cbb2abf150e4d52762c2",
+            "id": "531213121a52310e6be92555",
             "slug": "dataanalysis",
             "name": "數據分析",
             "url": "https://www.addnewfolder.com/tag/dataanalysis"
         },
         {
-            "id": "9b9ed46199ea277cb6b813cc",
+            "id": "eebede6e767271dae79d2ee9",
             "slug": "reading",
             "name": "讀文心得",
             "url": "https://www.addnewfolder.com/tag/reading"
@@ -90,7 +102,7 @@
             "page": 1,
             "limit": 10000,
             "pages": 1,
-            "total": 14,
+            "total": 16,
             "next": null,
             "prev": null
         }
