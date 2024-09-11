@@ -6,6 +6,13 @@
             "name": "夏洛克",
             "profile_image": "https://www.addnewfolder.com/assets/img/lanscape.jpg?v=aaabbb111",
             "url": "https://addnewfolder.com/author/"
+        },
+        {
+            "id": "2",
+            "slug": "sherlock",
+            "name": "sherlock",
+            "profile_image": "https://www.addnewfolder.com/assets/img/lanscape.jpg?v=aaabbb111",
+            "url": "https://addnewfolder.com/author/"
         }
     ],
     "meta": {
@@ -13,7 +20,7 @@
             "page": 1,
             "limit": 10000,
             "pages": 1,
-            "total": 1,
+            "total": 2,
             "next": null,
             "prev": null
         }
