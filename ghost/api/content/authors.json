@@ -4,16 +4,10 @@
             "id": "1",
             "slug": "sherlock",
             "name": "夏洛克",
-            "profile_image": "https://www.addnewfolder.com/assets/img/lanscape.jpg?v=aaabbb111",
-            "url": "https://www.addnewfolder.com/author/"
-        },
-        {
-            "id": "2",
-            "slug": "sherlock",
-            "name": "sherlock",
-            "profile_image": "https://www.addnewfolder.com/assets/img/lanscape.jpg?v=aaabbb111",
-            "url": "https://www.addnewfolder.com/author/"
+            "profile_image": "{{Site.baseurl}}/assets/img/lanscape.jpg?v={{Site.hashSys}}",
+            "url": "https://addnewfolder.com/author/"
         }
+        
     ],
     "meta": {
         "pagination": {
