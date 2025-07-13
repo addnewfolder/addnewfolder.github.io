@@ -515,13 +515,13 @@
 <p>每一列影視內容都有一個有意義的標題，傳遞特定的資訊。例如，當 Netflix 使用「您」這個詞時，實際上可能指的是整個家庭的所有成員，因為一個帳號通常供一家人使用，每個人的口味都不盡相同。</p>
 <p>這意味著，當您看到「您的熱門 10 部影片」時，可能是基於您家中父母、孩子或其他家庭成員的觀看歷史。對於獨居的用戶，Netflix 則更關注其興趣和情緒需求。</p>
 <p>為了實現這一目標，Netflix 不斷優化演算法的精確度，並對多樣性進行深入分析。</p>
-<p><img alt="Netflix 個人化推薦示例" src="https://farm6.staticflickr.com/5770/22684484254_a7c45976b7_o.png"/></p>
+<p><img alt="Netflix 個人化推薦示例" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/top10png_22684484254_o.png"/></p>
 <h2 id="%E6%84%9F%E7%9F%A5%EF%BC%9A%E8%B6%85%E8%B6%8A%E5%80%8B%E4%BA%BA%E5%8C%96%E7%9A%84%E9%97%9C%E9%8D%B5%E5%85%83%E7%B4%A0">感知：超越個人化的關鍵元素</h2>
 <p>在提供個人化服務的同時，Netflix 還重視用戶的感知體驗。Netflix 希望訂閱用戶了解系統如何適應他們的口味。這不僅增強了系統的可信度，還鼓勵用戶提供回饋，以獲得更好的推薦。</p>
 <p>為了讓用戶信任系統的推薦，Netflix 主動解釋了為什麼系統會推薦某個內容。即使某些內容對業績有幫助，系統仍會根據用戶的明確喜好、評價、觀看歷史，甚至是朋友的推薦（透過 Facebook 綁定獲取）來決定是否推薦。</p>
-<p><img alt="Netflix 的社交推薦" src="https://farm1.staticflickr.com/647/23230940361_d19a8aea90_o.png"/></p>
+<p><img alt="Netflix 的社交推薦" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/explanationspng_23230940361_o.png"/></p>
 <p>談到社群，Netflix 提供了與 Facebook 的連結（美國地區除外，受限於《影片隱私保護法》）。透過這些社交連結，不僅使系統的推薦更精準，還能提供與用戶社交生活相關的內容。</p>
-<p><img alt="Netflix 與 Facebook 的連結" src="https://farm6.staticflickr.com/5678/23017743550_027b0038ff_o.png"/></p>
+<p><img alt="Netflix 與 Facebook 的連結" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/socialpng_23017743550_o.png"/></p>
 <h2 id="%E5%80%8B%E4%BA%BA%E5%8C%96%E6%8E%A8%E8%96%A6%E7%9A%84%E5%AF%A6%E7%8F%BE%E6%96%B9%E5%BC%8F">個人化推薦的實現方式</h2>
 <p>在 Netflix 的服務中，最明顯的個人化推薦體現在類別（Genre）列上。例如，喜劇、劇情片，甚至是「80 年代的時空之旅」。每一列都有三層的個人化：</p>
 <ol>
@@ -530,14 +530,14 @@
 <li><strong>內容的排名</strong>：根據用戶的偏好，對內容進行排序。</li>
 </ol>
 <p>Netflix 發現，將這些個人化推薦列放在頁面的較高位置，可以提高用戶的留存率。這表明訂閱用戶對這些推薦列非常有感。而在決定推薦哪些類型的內容時，新鮮度和多樣性也是重要的考量因素。</p>
-<p><img alt="Netflix 的類別推薦" src="https://farm1.staticflickr.com/754/23313541155_29ba08f522_o.png"/></p>
+<p><img alt="Netflix 的類別推薦" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/ipadgenrespng_23313541155_o.png"/></p>
 <p>目前，Netflix 已經提供了一些推薦列，如「最近播放」、「您的評分」等，以及透過 Netflix 的口味偏好調查獲得的其他互動。當系統提供的資訊不足時，Netflix 也允許會員明確表達自己的喜好，以回饋到系統中。</p>
-<p><img alt="用戶偏好設定" src="https://farm1.staticflickr.com/761/23287467926_ebbb5c0c9c_o.png"/></p>
+<p><img alt="用戶偏好設定" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/gernres-supportpng_23287467926_o.png"/></p>
 <h2 id="%E3%80%8C%E7%9B%B8%E4%BC%BC%E9%A1%9E%E5%9E%8B%E3%80%8D%E8%88%87%E5%80%8B%E4%BA%BA%E5%8C%96%E6%9C%8D%E5%8B%99">「相似類型」與個人化服務</h2>
 <p>「相似類型」也是 Netflix 個人化服務中的重要元素。Netflix 認為，「相似類型」是一個相當開放的概念。它可以是電影之間的關係，會員之間的關係，或者其他維度的資訊，如元資料、評價，甚至是當前正在觀看的一些資訊。</p>
 <p>此外，這些「相似類型」可以混合使用，形成新的推薦模式。它們可以用於多種情境，例如回應會員的行為（如搜尋或將影片增加到待看清單），也可以用來產生基於會員最近互動行為的相似影片推薦列。</p>
-<p><img alt="相似類型推薦" src="https://farm1.staticflickr.com/674/23287476666_93dc745a31_o.png"/></p>
-<p><img alt="基於用戶行為的推薦" src="https://farm6.staticflickr.com/5677/23288004956_aa8e5c0824_o.png"/></p>
+<p><img alt="相似類型推薦" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/similars-useractionspng_23287476666_o.png"/></p>
+<p><img alt="基於用戶行為的推薦" src="/blog_image/2015-11-26-Netflix 推薦系統：超越五星評價/similars-rows-1png_23288004956_o.png"/></p>
 <h2 id="%E6%8E%92%E5%BA%8F%E8%88%87%E5%84%AA%E5%8C%96%EF%BC%9A%E6%8F%90%E5%8D%87%E5%80%8B%E4%BA%BA%E5%8C%96%E7%9A%84%E9%97%9C%E9%8D%B5">排序與優化：提升個人化的關鍵</h2>
 <p>正如前面提到的，「熱門 10 部影片」排行榜、類別推薦和「相似類型」推薦列的順序，都是決定個人化效果的關鍵。Netflix 的評價系統旨在為用戶呈現最佳的內容排列順序，而且是即時的。</p>
 <p>Netflix 將評價過程拆分為三個部分：對內容進行評分、排序和過濾分類，然後呈現給訂閱用戶。目標是優化會員的滿意度，確保他們每月繼續訂閱，同時提高內容的觀看率。</p>
