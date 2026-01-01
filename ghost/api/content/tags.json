@@ -1,64 +1,76 @@
 {
     "tags": [
         {
-            "id": "0408942a51f153dfdcda2fde",
+            "id": "beaed79b285fe3d8412aa886",
             "slug": "reading",
             "name": "讀文心得",
             "url": "https://www.addnewfolder.com/tag/reading"
         },
         {
-            "id": "8e12137989addb090f830aa8",
+            "id": "a3933eef770b9ef106301b13",
             "slug": "travel",
             "name": "旅遊",
             "url": "https://www.addnewfolder.com/tag/travel"
         },
         {
-            "id": "5949134cf197ea4bcb65b27d",
+            "id": "b1eda974a133832a49a27913",
             "slug": "okinawa",
             "name": "沖繩",
             "url": "https://www.addnewfolder.com/tag/okinawa"
         },
         {
-            "id": "1e3a0dbbfae3c6ce09fbd0ca",
+            "id": "0990878cfdda64e0049fcf8f",
             "slug": "okinawa",
             "name": "Okinawa",
             "url": "https://www.addnewfolder.com/tag/okinawa"
         },
         {
-            "id": "19066636cb90d2f122b5ed1a",
+            "id": "9e2ba2c64e3a7882f5ba9534",
             "slug": "product",
             "name": "產品",
             "url": "https://www.addnewfolder.com/tag/product"
         },
         {
-            "id": "8642238f6f22ce7ecf19e82f",
+            "id": "a30d4a4b6a279d4bc6e4dd02",
             "slug": "design",
             "name": "設計",
             "url": "https://www.addnewfolder.com/tag/design"
         },
         {
-            "id": "9da0769ee3cea4575567510c",
+            "id": "96396dd7db7223745c419c7a",
             "slug": "dataanalysis",
             "name": "數據分析",
             "url": "https://www.addnewfolder.com/tag/dataanalysis"
         },
         {
-            "id": "50a6d117194fa699f7864b79",
+            "id": "18895ea77f4e0b7820e44bbd",
             "slug": "social",
             "name": "社群經營",
             "url": "https://www.addnewfolder.com/tag/social"
         },
         {
-            "id": "ff4026a829cfb647fb5a49e8",
+            "id": "26f25dee4340103b5c6767f9",
             "slug": "hongkong",
             "name": "香港",
             "url": "https://www.addnewfolder.com/tag/hongkong"
         },
         {
-            "id": "b592de412d5605a8791c4118",
+            "id": "b89d557ad797f4cdb13c4653",
             "slug": "hongkong",
             "name": "HongKong",
             "url": "https://www.addnewfolder.com/tag/hongkong"
+        },
+        {
+            "id": "10ea99ecd3306a1ca2d7943d",
+            "slug": "tokyo",
+            "name": "東京",
+            "url": "https://www.addnewfolder.com/tag/tokyo"
+        },
+        {
+            "id": "3e6ae9711d1438b9a85b8f5b",
+            "slug": "tokyo",
+            "name": "Tokyo",
+            "url": "https://www.addnewfolder.com/tag/tokyo"
         }
     ],
     "meta": {
@@ -66,7 +78,7 @@
             "page": 1,
             "limit": 10000,
             "pages": 1,
-            "total": 10,
+            "total": 12,
             "next": null,
             "prev": null
         }
